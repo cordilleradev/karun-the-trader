@@ -1,0 +1,4 @@
+{
+    "max-swap-slippage" : 0.02,
+    "max-withdraw-slippage" : 0.02
+}
